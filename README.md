@@ -31,6 +31,7 @@ You can analyze new log files using the script analyze_logs.py.
 
 **Example usage:**
 python3 analyze_logs.py <datalink_log> <acklink_log> <protocol_name>
+
 This will generate:
 <protocol_name>_throughput.csv
 <protocol_name>_stats.csv
